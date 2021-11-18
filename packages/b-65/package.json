@@ -1,0 +1,10 @@
+{
+  "name": "b",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tyler Sargent",
+  "license": "MIT",
+  "dependencies": {
+    "react-native": "~0.65.1"
+  }
+}

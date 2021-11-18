@@ -1,0 +1,13 @@
+{
+  "name": "aaa-monorepo",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tyler Sargent",
+  "license": "MIT",
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  }
+}
